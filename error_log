@@ -1,0 +1,2 @@
+[21-Apr-2021 16:48:05 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/bieabang/public_html/app/Http/Controllers/RegistrationController.php on line 3
+[21-Apr-2021 16:49:16 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/bieabang/public_html/app/Http/Controllers/RegistrationController.php on line 3
